@@ -21,3 +21,33 @@ body {
   text-align: center;
   padding: 20px;
 }
+
+.Container {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: 37.5px 25px;
+}
+
+.High {
+  width: 500px;
+  color: #FAF9F6;
+  font-size: 25px;
+  
+}
+
+.Medium {
+  width: 500px;
+  color: #FAF9F6;
+  font-size: 25px;
+}
+
+.Low {
+  width: 500px;
+  color: #FAF9F6;
+  font-size: 25px;
+}
+
+hr {
+  margin: 37.5px;
+}
