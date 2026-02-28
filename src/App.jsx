@@ -13,6 +13,7 @@ function App() {
         <div className='Medium'>🟡 Medium Priority 🟡<hr></hr></div>
         <div className='Low'>🟢 Low Priority 🟢<hr></hr></div>
       </div>
+      <div className='Footer'>© 2026 List & Do</div>
     </div>
   )
 }
