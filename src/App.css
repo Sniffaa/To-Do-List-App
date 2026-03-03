@@ -35,7 +35,7 @@ p {
   font-family: "Roboto", sans-serif;
 }
 
-.Input {
+.Form {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -87,9 +87,10 @@ p {
   margin-top: 37.5px;
   margin-left: 25px;
   font-family: "Roboto", sans-serif;
+  color: #FAF9F6;
 }
 
-.Container {
+.Lists {
   display: flex;
   justify-content: space-between;
   text-align: center;
